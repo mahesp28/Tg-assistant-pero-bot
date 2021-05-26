@@ -52,7 +52,7 @@ $ python3 -m wbb
 ## Generating Pyrogram Session For Heroku
 
 ```
-$ git clone https://github.com/TheHamkerCat/WilliamButcherBot
+$ git clone https://github.com/mahesp28/Tg-assistant-pero-bot.git
 
 $ cd  TgAsisstantBot
 
@@ -61,9 +61,9 @@ $ pip3 install -U -r requirements.txt
 $ python3 str_gen.py
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thehamkercat/WilliamButcherBot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mahesp28/Tg-assistant-pero-bot.git/)
 
 
 ## Note
 
-1. Support Chat: https://t.me/wbbsupport
+1. Support Chat: https://t.me/
