@@ -1,4 +1,4 @@
-# ✨ WilliamButcherBot ✨
+# ✨ TgAssistantBot ✨
 ### Telegram Group Manager Bot + Userbot Written In Python Using Pyrogram.
 
 
@@ -54,7 +54,7 @@ $ python3 -m wbb
 ```
 $ git clone https://github.com/TheHamkerCat/WilliamButcherBot
 
-$ cd WilliamButcherBot
+$ cd  TgAsisstantBot
 
 $ pip3 install -U -r requirements.txt
 
